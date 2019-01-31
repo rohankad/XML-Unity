@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<npcs>
+   <npc name="Colin" npcType="Barman" entries="3">
+      <speach>Speach bubble 1</speach>
+      <speach>Speach bubble 2</speach>
+      <speach>Speach bubble 3</speach>
+   </npc>
+</npcs>

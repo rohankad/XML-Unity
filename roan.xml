@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<game>
+   <roan name="Rohan" entries="3">
+      <speach>Rohan Data 1</speach>
+      <speach>Speach bubble 2</speach>
+   </roan>
+</game>
